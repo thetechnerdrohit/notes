@@ -69,6 +69,12 @@ node --version
 npm -v
 ```
 
+Note : If using private repo, read this answer on stackoverflow
+
+```sh
+https://stackoverflow.com/questions/68775869/message-support-for-password-authentication-was-removed
+```
+
 ### 4. Clone <git_repository>
 
 ```sh
