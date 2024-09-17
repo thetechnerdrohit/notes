@@ -69,7 +69,7 @@ node --version
 npm -v
 ```
 
-### 4. Clone nodejs-ssl-server repository
+### 4. Clone <git_repository>
 
 ```sh
 cd /home/ubuntu
